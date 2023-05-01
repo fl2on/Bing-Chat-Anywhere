@@ -1,0 +1,89 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Bing Chat (Qzxtu)</title>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        font-family: sans-serif;
+      }
+
+      #popup-container {
+        height: 550px;
+        width: 400px;
+        overflow: hidden;
+        box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.5);
+        animation-name: popIn;
+        animation-duration: 0.5s;
+        animation-timing-function: ease-in-out;
+      }
+
+      @keyframes popIn {
+        0% {
+          transform: scale(0.5);
+          opacity: 0;
+        }
+        100% {
+          transform: scale(1);
+          opacity: 1;
+        }
+      }
+
+	  #popup-container iframe {
+	    height: 500px;
+        width: 100%;
+        border: none;
+        animation-name: slideIn;
+        animation-duration: 1s;
+        animation-delay: 0.5s;
+        animation-timing-function: ease-in-out;
+      }
+
+      @keyframes slideIn {
+        0% {
+          transform: translateY(100%);
+        }
+        100% {
+          transform: translateY(0);
+        }
+      }
+
+      #popup-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        height: 60px;
+        background-color: #2f7ed8;
+        color: white;
+        padding: 0 10px;
+      }
+
+      #popup-header h1 {
+        font-size: 20px;
+        margin: 0;
+        animation-name: fadeIn;
+        animation-duration: 0.5s;
+        animation-delay: 1.5s;
+        animation-timing-function: ease-in-out;
+      }
+
+      @keyframes fadeIn {
+        0% {
+          opacity: 0;
+        }
+        100% {
+          opacity: 1;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="popup-container">
+      <div id="popup-header">
+        <h1>Bing Chat</h1>
+      </div>
+      <iframe id="underside-iframe-container" name="underside-iframe-container" src="https://edgeservices.bing.com/edgediscover/query?&lightschemeovr=1&FORM=SHORUN&udscs=1&udsnav=1&setlang=en-US&features=udssydinternal&clientscopes=windowheader,coauthor,chat,&udsframed=1" frameborder="0" allow="clipboard-write"></iframe>
+    </div>
+  </body>
+</html>

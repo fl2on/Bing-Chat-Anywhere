@@ -1,0 +1,17 @@
+{
+   "name":"BingChat",
+   "version":"0.0.1",
+   "manifest_version":3,
+   "description":"This extension adds a chat button to Google search results, allowing users to chat with Bing's AI-powered chatbot directly from Google's search page.",
+   "icons":{
+      "16":"logo16x16.png",
+      "48":"logo48x48.png",
+      "128":"logo128x128.png"
+   },
+   "permissions":[],
+   "action":{
+      "default_popup":"popup.html"
+   },
+   "author":"Qzxtu",
+   "homepage_url":"https://github.com/qzxtu"
+}
