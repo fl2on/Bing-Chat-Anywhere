@@ -1,2 +1,2 @@
-# Chrome-Bing-Chat
-This is a browser extension that allows users to chat through Bing Chat while browsing the web. 
+# Bing Chat Anywhere
+Bing Chat Anywhere is an extension for the Chromium browser that allows users to use the Bing Chat online chat platform from any browser. The extension is easy to install and integrates seamlessly into the browser, allowing users to access Bing Chat Anywhere with just a few clicks. However, it is important to note that users must log in to Bing.com before they can use Bing Chat Anywhere through this extension. In summary, Bing Chat Anywhere is a useful tool for those who use Bing Chat frequently and want to access it quickly and easily from their favorite browser.
