@@ -5,6 +5,8 @@ Bing Chat Anywhere is an extension for the Chromium browser that allows users to
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/1008195045960204349/1102732612340043807/New_Website_Blue_Mockup_Instagram_-_Laptop.gif)
 
+https://user-images.githubusercontent.com/69091361/235826888-b7b4190e-2b86-40ec-8df3-7ca4c8463489.mp4
+
 ## FAQ
 
 #### Q: What is Bing Chat Anywhere?
