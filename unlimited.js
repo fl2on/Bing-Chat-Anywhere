@@ -76,12 +76,16 @@
 
   /**
    * Initialize the extension.
-  */
-   async function initializeExtension() {
-     removeSearchBoxMaxLength();
-     addIframe();
-   }
-   
-   window.addEventListener("load", initializeExtension);
-   window.addEventListener("popstate", initializeExtension);
+   */
+async function initializeExtension() {
+  removeSearchBoxMaxLength();
+  addIframe();
+}
+
+  window.addEventListener("load", initializeExtension);
+  window.addEventListener("popstate", initializeExtension);
+  
+  setInterval(() => {
+    initializeExtension();
+  }, 3000);
 })();
