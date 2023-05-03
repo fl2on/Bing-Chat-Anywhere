@@ -44,6 +44,8 @@ I hope this helps. Don't hesitate to ask if you need any further assistance!
 ## Credits
 
 - The `unlimited.js` file in this repository is based on the original work by [blueagler](https://github.com/blueagler) in the [Bing-Chat-Pro](https://github.com/blueagler/Bing-Chat-Pro) repository, with slight modifications.
+
+## Author
 - [@qzxtu](https://www.github.com/qzxtu)
 
 ## License
