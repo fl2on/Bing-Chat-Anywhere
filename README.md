@@ -41,12 +41,10 @@ A: After installing the extension and logging in to Bing.com, click on the Bing 
 Enjoy using Bing Chat Anywhere from any browser!
 I hope this helps. Don't hesitate to ask if you need any further assistance!
 
-## Authors
-
-- [@qzxtu](https://www.github.com/qzxtu)
+## Credits
 
 - The `unlimited.js` file in this repository is based on the original work by [blueagler](https://github.com/blueagler) in the [Bing-Chat-Pro](https://github.com/blueagler/Bing-Chat-Pro) repository, with slight modifications.
-
+- [@qzxtu](https://www.github.com/qzxtu)
 
 ## License
 
