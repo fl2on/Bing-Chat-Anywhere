@@ -7,6 +7,11 @@ Bing Chat Anywhere is an extension for the Chromium browser that allows users to
 
 https://user-images.githubusercontent.com/69091361/235826888-b7b4190e-2b86-40ec-8df3-7ca4c8463489.mp4
 
+# Translation
+| 🇺🇸 | 🇨🇳 | 🇹🇼 | 🇮🇳 | 🇫🇷 | 🇦🇪 | 🇩🇪 | 🇯🇵 | 🇪🇸 |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| [English](README.md) | [简体中文](README.zh-CN.md) | [繁体中文](README.zh-TW.md) | [हिंदी](README.hi.md) | [Française](README.fr.md) | [عربى](README.ar.md) | [Deutsch](README.de.md) | [日本語](README.ja.md) | [Español](README.es.md) |
+
 ## FAQ
 
 #### Q: What is Bing Chat Anywhere?
