@@ -1,14 +1,14 @@
 # Chat de Bing en cualquier lugar
 
-Bing Chat Anywhere es una extensión para el navegador Chromium que permite a los usuarios utilizar la plataforma de chat en línea Bing Chat desde cualquier navegador. La extensión es fácil de instalar y se integra a la perfección en el navegador, lo que permite a los usuarios acceder a Bing Chat Anywhere con solo unos pocos clics. Sin embargo, es importante tener en cuenta que los usuarios deben iniciar sesión en Bing.com antes de poder usar Bing Chat Anywhere a través de esta extensión. En resumen, Bing Chat Anywhere es una herramienta útil para aquellos que usan Bing Chat con frecuencia y quieren acceder a él de forma rápida y sencilla desde su navegador favorito.
+Bing Chat Anywhere es una extensión para el navegador Chromium que permite a los usuarios utilizar la plataforma de chat en línea Bing Chat desde cualquier navegador. La extensión es fácil de instalar y se integra perfectamente en el navegador, lo que permite a los usuarios acceder a Bing Chat Anywhere con sólo unos pocos clics. Sin embargo, es importante tener en cuenta que los usuarios deben iniciar sesión en Bing.com antes de poder utilizar Bing Chat Anywhere a través de esta extensión. En resumen, Bing Chat Anywhere es una herramienta útil para quienes utilizan Bing Chat con frecuencia y quieren acceder a él de forma rápida y sencilla desde su navegador favorito.
 
 # Traducción
 
 | 🇺🇸                | 🇨🇳                                  | 🇹🇼                                 | 🇮🇳                  | 🇫🇷                     | 🇦🇪                  | 🇩🇪                   | 🇯🇵                    | 🇪🇸                    |
 | ------------------- | ------------------------------------- | ------------------------------------ | --------------------- | ------------------------ | --------------------- | ---------------------- | ----------------------- | ----------------------- |
-| [Inglés](README.md) | [chino simplificado](README.zh-CN.md) | [chino tradicional](README.zh-TW.md) | [hindi](README.hi.md) | [Francésa](README.fr.md) | [árabe](README.ar.md) | [Alemán](README.de.md) | [japonés](README.ja.md) | [Español](README.es.md) |
+| [Inglés](README.md) | [Chino simplificado](README.zh-CN.md) | [chino tradicional](README.zh-TW.md) | [hindi](README.hi.md) | [Francésa](README.fr.md) | [árabe](README.ar.md) | [Alemán](README.de.md) | [japonés](README.ja.md) | [Español](README.es.md) |
 
-## capturas de pantalla
+## Capturas de pantalla
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/1008195045960204349/1102732612340043807/New_Website_Blue_Mockup_Instagram_-_Laptop.gif)
 
@@ -18,7 +18,7 @@ Bing Chat Anywhere es una extensión para el navegador Chromium que permite a lo
 
 #### P: ¿Qué es Bing Chat Anywhere?
 
-R: Bing Chat Anywhere es una extensión para el navegador Chromium que permite a los usuarios usar la plataforma de chat en línea Bing Chat desde cualquier navegador.
+R: Bing Chat Anywhere es una extensión para el navegador Chromium que permite a los usuarios utilizar la plataforma de chat en línea Bing Chat desde cualquier navegador.
 
 #### P: ¿Qué navegadores son compatibles con Bing Chat Anywhere?
 
@@ -26,7 +26,7 @@ R: Bing Chat Anywhere es compatible con navegadores basados ​​en Chromium co
 
 #### P: ¿Necesito tener una cuenta de Bing para usar Bing Chat Anywhere?
 
-R: Sí, debe tener una cuenta de Bing e iniciar sesión en Bing.com para usar Bing Chat Anywhere.
+R: Sí, debe tener una cuenta de Bing e iniciar sesión en Bing.com para utilizar Bing Chat Anywhere.
 
 #### P: ¿Puedo usar Bing Chat Anywhere en dispositivos móviles?
 
@@ -38,17 +38,17 @@ R: Sí, Bing Chat Anywhere es una extensión gratuita y de código abierto.
 
 #### P: ¿Cómo uso Bing Chat Anywhere?
 
-R: Después de instalar la extensión e iniciar sesión en Bing.com, haga clic en el icono de Bing Chat Anywhere en la barra de herramientas del navegador para abrir la ventana de chat. Desde allí, puede usar todas las funciones de Bing Chat.
+R: Después de instalar la extensión e iniciar sesión en Bing.com, haga clic en el ícono Bing Chat Anywhere en la barra de herramientas del navegador para abrir la ventana de chat. Desde allí, puede utilizar todas las funciones de Bing Chat.
 
 ## Instalación
 
--   Go to the Bing Chat Anywhere repository on GitHub: <https://github.com/qzxtu/Bing-Chat-Anywhere>.
+-   Vaya al repositorio de Bing Chat Anywhere en GitHub:<https://github.com/qzxtu/Bing-Chat-Anywhere>.
 -   Haga clic en el botón verde "Código" y seleccione "Descargar ZIP" para descargar el archivo comprimido.
--   Descomprima el archivo descargado en una ubicación de su elección en su computadora.
+-   Descomprima el archivo descargado en la ubicación que elija en su computadora.
 -   Abra su navegador Chromium (Google Chrome, Microsoft Edge o Brave).
 -   Haga clic en el botón de menú (los tres puntos en la esquina superior derecha) y seleccione "Extensiones" en el menú desplegable.
--   Habilite el modo desarrollador en la esquina superior derecha de la página de extensiones.
--   Haga clic en el botón "Cargar desempaquetado" y seleccione la carpeta donde descomprimió el archivo Bing Chat Anywhere.
+-   Habilite el modo de desarrollador en la esquina superior derecha de la página de extensiones.
+-   Haga clic en el botón "Cargar descomprimido" y seleccione la carpeta donde descomprimió el archivo de Bing Chat Anywhere.
 -   La extensión debería aparecer en la lista de extensiones instaladas en su navegador.
 -   Después de la instalación, inicie sesión en Bing.com con su cuenta de Bing.
 -   Haga clic en el icono de Bing Chat Anywhere en la barra de herramientas del navegador para abrir la ventana de chat.
@@ -58,7 +58,7 @@ Espero que esto ayude. ¡No dudes en preguntar si necesitas más ayuda!
 
 ## Créditos
 
--   El`unlimited.js`archivo en este repositorio se basa en el trabajo original de[azulejo](https://github.com/blueagler)en el[Bing-Chat-Pro](https://github.com/blueagler/Bing-Chat-Pro)repositorio, con ligeras modificaciones.
+-   El`unlimited.js`El archivo en este repositorio se basa en el trabajo original de[águila azul](https://github.com/blueagler)en el[Bing-Chat-Pro](https://github.com/blueagler/Bing-Chat-Pro)repositorio, con ligeras modificaciones.
 
 ## Autor
 
