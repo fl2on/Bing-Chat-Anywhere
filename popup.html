@@ -1,15 +1,94 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
    <head>
       <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>Bing Chat (Qzxtu)</title>
-      <style>body{margin: 0; padding: 0; font-family: sans-serif;}#popup-container{height: 550px; width: 400px; overflow: hidden; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.5); animation-name: popIn; animation-duration: 1s; animation-timing-function: ease-in-out;}@keyframes popIn{0%{transform: scale(0.5); opacity: 0;}100%{transform: scale(1); opacity: 1;}}#popup-container iframe{height: 500px; width: 100%; border: none; animation-name: slideIn; animation-duration: 1s; animation-delay: 1s; animation-timing-function: ease-in-out;}@keyframes slideIn{0%{transform: translateY(100%);}100%{transform: translateY(0);}}#popup-header{display: flex; align-items: center; justify-content: space-between; height: 60px; background-color: #2f7ed8; color: white; padding: 0 10px; position: sticky; /* Added */ top: 0; /* Added */ text-align: center; /* Added */}@keyframes tipo-write{from{width: 0;}to{width: 100%;}}/* El elemento al que se aplica la animación */ #popup-header h1{overflow: hidden; /* Evita que el contenido se revele hasta que empiece la animación */ /* border-right: .15em solid white; */ /* Quitamos esta propiedad */ white-space: nowrap; /* Mantiene el contenido en una sola línea */ margin: 0 auto; /* Da el efecto de desplazamiento al escribir */ animation: tipo-write 3s steps(40, end); /* Quitamos la animación blink-caret */}@keyframes fadeInDown{0%{transform: translateY(-20px); opacity: .2}100%{transform-origin: top center}}</style>
+      <style>
+         body {
+            margin: 0;
+            padding: 0;
+            font-family: sans-serif;
+         }
+         #popup-container {
+            height: 550px;
+            width: 400px;
+            overflow: hidden;
+            box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.5);
+            animation-name: popIn;
+            animation-duration: 1s;
+            animation-timing-function: ease-in-out;
+         }
+         @keyframes popIn {
+            0% {
+               transform: scale(0.5);
+               opacity: 0;
+            }
+            100% {
+               transform: scale(1);
+               opacity: 1;
+            }
+         }
+         #popup-container iframe {
+            height: 500px;
+            width: 100%;
+            border: none;
+            animation-name: slideIn;
+            animation-duration: 1s;
+            animation-delay: 1s;
+            animation-timing-function: ease-in-out;
+         }
+         @keyframes slideIn {
+            0% {
+               transform: translateY(100%);
+            }
+            100% {
+               transform: translateY(0);
+            }
+         }
+         #popup-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            height: 60px;
+            background-color: #2f7ed8;
+            color: white;
+            padding: 0 10px;
+            position: sticky;
+            top: 0;
+            text-align: center;
+         }
+         @keyframes tipo-write {
+            from {
+               width: 0;
+            }
+            to {
+               width: 100%;
+            }
+         }
+         #popup-header h1 {
+            overflow: hidden;
+            white-space: nowrap;
+            margin: 0 auto;
+            animation: tipo-write 3s steps(40, end);
+         }
+         @keyframes fadeInDown {
+            0% {
+               transform: translateY(-20px);
+               opacity: .2;
+            }
+            100% {
+               transform-origin: top center;
+            }
+         }
+      </style>
    </head>
    <body>
       <div id="popup-container">
          <div id="popup-header">
             <h1>Bing Chat</h1>
          </div>
-         <iframe id="underside-iframe-container" name="underside-iframe-container" src="https://edgeservices.bing.com/edgediscover/query?&lightschemeovr=1&FORM=SHORUN&udscs=1&udsnav=1&setlang=en-US&features=udssydinternal&clientscopes=windowheader,coauthor,chat,&udsframed=1" frameborder="0" allow="clipboard-write"></iframe>
+         <iframe id="underside-iframe-container" name="underside-iframe-container" src="https://copilot.microsoft.com/" frameborder="0" title="Copilot Microsoft"></iframe>
       </div>
    </body>
 </html>
