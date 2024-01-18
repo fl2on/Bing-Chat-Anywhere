@@ -1,6 +1,6 @@
-# Bing Chat n'importe où
+# Discutez sur Bing n'importe où
 
-Bing Chat Anywhere est une extension pour le navigateur Chromium qui permet aux utilisateurs d'utiliser la plateforme de chat en ligne Bing Chat depuis n'importe quel navigateur. L'extension est facile à installer et s'intègre parfaitement dans le navigateur, permettant aux utilisateurs d'accéder à Bing Chat Anywhere en quelques clics. Cependant, il est important de noter que les utilisateurs doivent se connecter à Bing.com avant de pouvoir utiliser Bing Chat Anywhere via cette extension. En résumé, Bing Chat Anywhere est un outil utile pour ceux qui utilisent fréquemment Bing Chat et souhaitent y accéder rapidement et facilement depuis leur navigateur préféré.
+Bing Chat Anywhere est une extension pour le navigateur Chromium qui permet aux utilisateurs d'utiliser la plateforme de chat en ligne Bing Chat depuis n'importe quel navigateur. L'extension est facile à installer et s'intègre parfaitement au navigateur, permettant aux utilisateurs d'accéder à Bing Chat Anywhere en quelques clics. Cependant, il est important de noter que les utilisateurs doivent se connecter à Bing.com avant de pouvoir utiliser Bing Chat Anywhere via cette extension. En résumé, Bing Chat Anywhere est un outil utile pour ceux qui utilisent fréquemment Bing Chat et souhaitent y accéder rapidement et facilement depuis leur navigateur préféré.
 
 # Traduction
 
@@ -18,27 +18,27 @@ Bing Chat Anywhere est une extension pour le navigateur Chromium qui permet aux 
 
 #### Q : Qu'est-ce que Bing Chat Anywhere ?
 
-R : Bing Chat Anywhere est une extension pour le navigateur Chromium qui permet aux utilisateurs d'utiliser la plateforme de chat en ligne Bing Chat depuis n'importe quel navigateur.
+R : Bing Chat Anywhere est une extension pour le navigateur Chromium qui permet aux utilisateurs d'utiliser la plateforme de chat en ligne Bing Chat depuis n'importe quel navigateur.
 
 #### Q : Quels navigateurs sont compatibles avec Bing Chat Anywhere ?
 
-R : Bing Chat Anywhere est compatible avec les navigateurs basés sur Chromium tels que Google Chrome, Microsoft Edge et Brave.
+R : Bing Chat Anywhere est compatible avec les navigateurs basés sur Chromium tels que Google Chrome, Microsoft Edge et Brave.
 
-#### Q : Ai-je besoin d'un compte Bing pour utiliser Bing Chat Anywhere ?
+#### Q : Dois-je disposer d'un compte Bing pour utiliser Bing Chat Anywhere ?
 
-R : Oui, vous devez avoir un compte Bing et être connecté à Bing.com pour utiliser Bing Chat Anywhere.
+R : Oui, vous devez disposer d'un compte Bing et être connecté à Bing.com pour utiliser Bing Chat Anywhere.
 
 #### Q : Puis-je utiliser Bing Chat Anywhere sur des appareils mobiles ?
 
-R : Non, Bing Chat Anywhere n'est disponible que pour les navigateurs de bureau.
+R : Non, Bing Chat Anywhere est uniquement disponible pour les navigateurs de bureau.
 
-#### Q : Est-ce que Bing Chat Anywhere est gratuit ?
+#### Q: Is Bing Chat Anywhere free?
 
-R : Oui, Bing Chat Anywhere est une extension gratuite et open source.
+R : Oui, Bing Chat Anywhere est une extension gratuite et open source.
 
 #### Q : Comment utiliser Bing Chat Anywhere ?
 
-R : Après avoir installé l'extension et vous être connecté à Bing.com, cliquez sur l'icône Bing Chat Anywhere dans la barre d'outils du navigateur pour ouvrir la fenêtre de chat. À partir de là, vous pouvez utiliser toutes les fonctionnalités de Bing Chat.
+R : Après avoir installé l'extension et connecté à Bing.com, cliquez sur l'icône Bing Chat Anywhere dans la barre d'outils du navigateur pour ouvrir la fenêtre de discussion. À partir de là, vous pouvez utiliser toutes les fonctionnalités de Bing Chat.
 
 ## Installation
 
@@ -46,19 +46,19 @@ R : Après avoir installé l'extension et vous être connecté à Bing.com, cli
 -   Cliquez sur le bouton vert "Code" et sélectionnez "Télécharger ZIP" pour télécharger le fichier compressé.
 -   Décompressez le fichier téléchargé à l'emplacement de votre choix sur votre ordinateur.
 -   Ouvrez votre navigateur Chromium (Google Chrome, Microsoft Edge ou Brave).
--   Cliquez sur le bouton de menu (les trois points dans le coin supérieur droit) et sélectionnez "Extensions" dans le menu déroulant.
+-   Cliquez sur le bouton de menu (les trois points dans le coin supérieur droit) et sélectionnez « Extensions » dans le menu déroulant.
 -   Activez le mode développeur dans le coin supérieur droit de la page des extensions.
--   Click on the "Load unpacked" button and select the folder where you unzipped the Bing Chat Anywhere file.
--   L'extension devrait apparaître dans la liste des extensions installées de votre navigateur.
+-   Cliquez sur le bouton "Charger décompressé" et sélectionnez le dossier dans lequel vous avez décompressé le fichier Bing Chat Anywhere.
+-   L'extension devrait apparaître dans la liste des extensions installées dans votre navigateur.
 -   Après l'installation, connectez-vous à Bing.com avec votre compte Bing.
--   Cliquez sur l'icône Bing Chat Anywhere dans la barre d'outils du navigateur pour ouvrir la fenêtre de chat.
+-   Cliquez sur l'icône Bing Chat Anywhere dans la barre d'outils du navigateur pour ouvrir la fenêtre de discussion.
 
-Profitez de l'utilisation de Bing Chat Anywhere depuis n'importe quel navigateur !
+Profitez de Bing Chat Anywhere depuis n’importe quel navigateur !
 J'espère que ça aide. N'hésitez pas à demander si vous avez besoin d'aide supplémentaire !
 
 ## Crédits
 
--   Le`unlimited.js`fichier dans ce référentiel est basé sur le travail original de[bluegler](https://github.com/blueagler)dans le[Bing-Chat-Pro](https://github.com/blueagler/Bing-Chat-Pro)référentiel, avec de légères modifications.
+-   Le`unlimited.js`Le fichier dans ce référentiel est basé sur le travail original de[Aigle bleu](https://github.com/blueagler)dans le[Bing-Chat-Pro](https://github.com/blueagler/Bing-Chat-Pro)référentiel, avec de légères modifications.
 
 ## Auteur
 
